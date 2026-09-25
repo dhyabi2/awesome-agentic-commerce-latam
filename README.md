@@ -109,6 +109,7 @@ These sit below the commerce layer and move the money. No FX: each rail carries 
 ### Cards & stablecoins
 
 - [USDC on Base](https://www.circle.com/usdc) - the stablecoin settlement rail for cross-border and x402.
+- [Nano (XNO)](https://nano.org) - feeless, sub-second settlement rail with no issuer; exact-scheme x402 via x402nano/exact over the nano:* network family.
 - Card networks - Visa (Intelligent Commerce) and Mastercard (Agent Pay), now live with Brazilian issuers.
 
 ### x402
