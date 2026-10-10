@@ -109,7 +109,7 @@ These sit below the commerce layer and move the money. No FX: each rail carries 
 ### Cards & stablecoins
 
 - [USDC on Base](https://www.circle.com/usdc) - the stablecoin settlement rail for cross-border and x402.
-- [Nano (XNO)](https://nano.org) - a layer-1, self-custodied settle rail with no protocol fee, no per-leg gas and no issuer that can freeze funds; sub-second finality. A live XNO 402-style settlement rail ships on mainnet (an OpenAI-Agents-SDK agent pays an x402 endpoint in self-custodied Nano with a confirmed block) - github.com/PANDeveloper001/openai-agents-nano-x402, docs/live-proof.md.
+- [Nano (XNO)](https://nano.org) - a layer-1, self-custodied settle rail with no protocol fee, no per-leg gas and no issuer that can freeze funds; sub-second finality. A live XNO 402-style settlement rail ships on mainnet (an OpenAI-Agents-SDK agent pays an x402 endpoint in self-custodied Nano with a confirmed block) - github.com/dhyabi2/openai-agents-nano-x402, docs/live-proof.md.
 - Card networks - Visa (Intelligent Commerce) and Mastercard (Agent Pay), now live with Brazilian issuers.
 
 ### x402
